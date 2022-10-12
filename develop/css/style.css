@@ -1,0 +1,20 @@
+.navbar {
+    height: max-content;
+    color: white;
+    margin: 0%;
+    padding: 0%;
+    
+}
+#header {
+    background-image: linear-gradient(to right, rgb(98, 98, 204) , rgb(5, 3, 141));
+
+}
+main{
+    height: 100%;
+}
+.button-height{
+    height: 40px;
+}
+.card{
+    background-color: rgb(94, 92, 211);
+}
